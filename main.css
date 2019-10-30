@@ -351,4 +351,35 @@
 				padding: 3em 1em 1em 1em;
 			}
 
+		}.navbar{
+			color: white;
+		}form{
+			border: 5px solid;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			border-color: #000;
+			background-color: grey;
+		}input{
+			font-size: 20px;
+			padding: 10px;
+			margin: 10px 5px;
+		}.btn{
+			font-size: 20px;
+			margin-bottom: 20px;
+			margin-top: 20px;
+			background-size: 50px;
+
+		}h2{
+			border: 1px solid;
+			background-color: #000;
+			padding: 20px;
+			margin-top: 0px;
+		}label{
+			font-size: 20px;
+			color:#000;
+			font-family: algerian;
+		}.about{
+			border: 1px solid;
+			margin-bottom: 20px;
+			background-color: grey;
 		}
